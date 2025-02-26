@@ -1,3 +1,4 @@
+Maksimov
 ---
 layout: lecture
 title: "Version Control (Git)"
